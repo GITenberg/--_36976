@@ -1,0 +1,39 @@
+_repo: --_36976
+_version: 0.1.0
+alternative_title:
+- Saiban
+- On trial. Japanese
+contributor:
+  translator:
+    agent_name: Hayashi, Kiyotoshi
+    alias: 林清俊
+    gutenberg_agent_id: '36139'
+    url: http://www.gutenberg.org/2009/agents/36139
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rice, Elmer
+    aliases:
+    - Rice, Elmer L. (Elmer Leopold)
+    - Reizenstein, Elmer L. (Elmer Leopold)
+    birthdate: 1892
+    deathdate: 1967
+    gutenberg_agent_id: '38573'
+    url: http://www.gutenberg.org/2009/agents/38573
+    wikipedia: http://en.wikipedia.org/wiki/Elmer_Rice
+description: 'Translation of: On Trial'
+gutenberg_issued: '2011-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36976'
+language: ja
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American drama -- 20th century'
+title: 裁判
+url: http://www.gutenberg.org/ebooks/36976
